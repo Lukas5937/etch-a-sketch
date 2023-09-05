@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: 50px 10px;
+    margin: 20px;
+    width: 1150px;
 }
 
 .container {
@@ -11,8 +11,6 @@ body {
 
 .cell {
     box-sizing: border-box;
-    height: 5.5vw;
-    width: 5.5vw;
     background-color: blue;
     padding: 10px;
     border: 2px solid black;
@@ -20,4 +18,8 @@ body {
 
 .hover {
     background-color: red;
+}
+
+.size {
+    margin: 16px 0;
 }
